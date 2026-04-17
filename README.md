@@ -1,6 +1,6 @@
-![image](https://github.com/user-attachments/assets/3438b583-dd4a-42c0-9229-9d1fa8e5eaf8)- 👋 Hi, I’m @JabaNet
+- 👋 Hi, I’m @JabaNet
 - 👀 I’m interested in ... Right now I'm only interested in the Java language
-- 🌱 I’m currently learning ... I'm currently learning python
+- 🌱 I’m currently learning ... I'm currently learning c++
 - 💞️ I’m looking to collaborate on ... let's skip this
 - 📫 How to reach me ...I'll leave this for later
 - 😄 Pronouns: ... ...
