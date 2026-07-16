@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JabaNet
 - 👀 I’m interested in ... Right now I'm only interested in the Java language
-- 🌱 I’m currently learning ... I'm currently learning c++
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ... let's skip this
 - 📫 How to reach me ...I'll leave this for later
 - 😄 Pronouns: ... ...
